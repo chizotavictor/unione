@@ -1,0 +1,8 @@
+{
+	"port": 5000,
+	"bodyLimit": "100kb",
+	"corsHeaders": ["Link"],
+	"databaseUser": "unione-user",
+	"databasePassword": "voiceman1986",
+	"secret": "JustShallLeaveByFaith"
+}
